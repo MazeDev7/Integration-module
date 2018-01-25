@@ -1,0 +1,3 @@
+﻿SELECT G-Vin, G-Make, G-Year, G-Type, G-Color, G-NumOfPassengers, G-Price FROM Cars
+SELECT G-License, G-FullName, G-FullAddress, G-Age FROM Customers
+SELECT G-Vin, G-License, G-StartDate, G-NumberOfDays, G-Discount FROM Rentals
